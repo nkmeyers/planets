@@ -1,0 +1,63 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "89715c94-f47b-4762-be4c-6d0cb4990ac6",
+            "details": "PresQT Transfer from CurateND to GitHub",
+            "actionDateTime": "2020-08-10 17:32:34.874887+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "curate_nd",
+            "sourceUsername": "batch_ingest",
+            "destinationTargetName": "github",
+            "destinationUsername": "nkmeyers",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/planets/spaceships/Epistemological_Letters_31/October198131thissue.pdf",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "328bb7e33f91dd24cc3036c560b85f01",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "October198131thissue.pdf",
+                        "sourceHashes": {
+                            "md5": "328bb7e33f91dd24cc3036c560b85f01"
+                        },
+                        "sourcePath": "/Epistemological Letters 31/October198131thissue.pdf",
+                        "extra": {
+                            "mimeType": "application/pdf",
+                            "access": {
+                                "readGroup": [
+                                    "public"
+                                ],
+                                "editPerson": [
+                                    "nmunn",
+                                    "msuhovec",
+                                    "dbrower",
+                                    "dhoward1",
+                                    "smurguei"
+                                ]
+                            },
+                            "depositor": "batch_ingest",
+                            "owner": "nmunn|msuhovec|dbrower|dhoward1|smurguei",
+                            "title": "October198131thissue.pdf",
+                            "characterization": "<fits xmlns=\"http://hul.harvard.edu/ois/xml/ns/fits/fits_output\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd\" version=\"0.6.2\" timestamp=\"9/4/19 3:51 PM\">\n  <identification>\n    <identity format=\"Portable Document Format\" mimetype=\"application/pdf\" toolname=\"FITS\" toolversion=\"0.6.2\">\n      <tool toolname=\"Jhove\" toolversion=\"1.5\"/>\n      <tool toolname=\"file utility\" toolversion=\"5.04\"/>\n      <tool toolname=\"Exiftool\" toolversion=\"9.06\"/>\n      <tool toolname=\"Droid\" toolversion=\"3.0\"/>\n      <tool toolname=\"NLNZ Metadata Extractor\" toolversion=\"3.4GA\"/>\n      <tool toolname=\"ffident\" toolversion=\"0.2\"/>\n      <version toolname=\"file utility\" toolversion=\"5.04\">1.5</version>\n      <externalIdentifier toolname=\"Droid\" toolversion=\"3.0\" type=\"puid\">fmt/19</externalIdentifier>\n    </identity>\n  </identification>\n  <fileinfo>\n    <size toolname=\"Jhove\" toolversion=\"1.5\">39484414</size>\n    <creatingApplicationName toolname=\"NLNZ Metadata Extractor\" toolversion=\"3.4GA\" status=\"SINGLE_RESULT\">iTextSharp 5.0.5 (c) 1T3XT BVBA/</creatingApplicationName>\n    <lastmodified toolname=\"Exiftool\" toolversion=\"9.06\" status=\"SINGLE_RESULT\">2019:09:04 15:51:04-04:00</lastmodified>\n    <created toolname=\"Exiftool\" toolversion=\"9.06\" status=\"SINGLE_RESULT\">2018:09:25 17:25:57-04:00</created>\n    <filepath toolname=\"OIS File Information\" toolversion=\"0.1\" status=\"SINGLE_RESULT\">/tmp/und:hh63st77f98-content.2.pdf20190904-57354-96n8m5.pdf</filepath>\n    \n    <md5checksum toolname=\"OIS File Information\" toolversion=\"0.1\" status=\"SINGLE_RESULT\">328bb7e33f91dd24cc3036c560b85f01</md5checksum>\n    <fslastmodified toolname=\"OIS File Information\" toolversion=\"0.1\" status=\"SINGLE_RESULT\">1567626664000</fslastmodified>\n  </fileinfo>\n  <filestatus>\n    <well-formed toolname=\"Jhove\" toolversion=\"1.5\" status=\"SINGLE_RESULT\">false</well-formed>\n    <valid toolname=\"Jhove\" toolversion=\"1.5\" status=\"SINGLE_RESULT\">false</valid>\n    <message toolname=\"Jhove\" toolversion=\"1.5\" status=\"SINGLE_RESULT\">Invalid page dictionary object offset=3470</message>\n  </filestatus>\n  <metadata>\n    <document>\n      <pageCount toolname=\"Exiftool\" toolversion=\"9.06\" status=\"SINGLE_RESULT\">48</pageCount>\n      <isTagged toolname=\"Jhove\" toolversion=\"1.5\">no</isTagged>\n      <hasOutline toolname=\"Jhove\" toolversion=\"1.5\">no</hasOutline>\n      <hasAnnotations toolname=\"Jhove\" toolversion=\"1.5\" status=\"SINGLE_RESULT\">no</hasAnnotations>\n      <isRightsManaged toolname=\"Exiftool\" toolversion=\"9.06\" status=\"SINGLE_RESULT\">no</isRightsManaged>\n      <isProtected toolname=\"Exiftool\" toolversion=\"9.06\">no</isProtected>\n      <hasForms toolname=\"NLNZ Metadata Extractor\" toolversion=\"3.4GA\" status=\"SINGLE_RESULT\">yes</hasForms>\n    </document>\n  </metadata>\n</fits>",
+                            "thumbnailUrl": "https://curate.nd.edu/downloads/hh63st77f98/thumbnail",
+                            "bendoItem": "9g54xg97d8g",
+                            "hasModel": "GenericFile",
+                            "isPartOf": [
+                                "https://curate.nd.edu/api/items/hd76rx9458v"
+                            ]
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
